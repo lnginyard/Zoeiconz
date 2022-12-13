@@ -2,8 +2,8 @@
  
 ## Description
 An icon set hoisting two versions of the 
-same icon. One is a simple yet powerful version and the other is more intracent version that's handcrafted 
-and true to my modern yet classic asthetic. 
+same icon. One version is the simple, yet powerful version with max whitespace in mind and the other version is a more intricate, modern design that's handcrafted 
+and true to my asthetic. 
 ## Getting Started
 You may clone this repository and use the icons to either edit and make your own icons. Or you can just save the icons and use them whereever you like.
 ### Dependencies
