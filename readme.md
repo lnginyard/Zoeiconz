@@ -11,12 +11,7 @@ There are no dependencies prerequisites, libraries, or OS needed for this projec
 ### Installing
 
 
-### Executing program
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+
 ## Help
 I am just starting to learn and work with designing icons and find it to be quite tedious so if you would like to contribute and lend a hand with designing some sleek yet beautiful icons...please be my guest!
 
